@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<!-- kommentar-->
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Uppgift 1 RWD</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <header>
+        <h1>Uppgift 1</h1>
+    </header>
+
+    <nav>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">MDN HTML </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"> MDN CSS </a>
+        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"> MDN JS </a>
+    </nav>
+
+    <main>
+        <article id="article1"> <strong> <h2>Artikel 1</h2> </strong>
+
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Est facere atque cumque non aliquam
+                perferendis quo laboriosam molestiae doloribus? Voluptates dolore sapiente eveniet cumque eos culpa
+                necessitatibus ab unde veritatis.</p>
+        </article>
+        <article id="article2"> <strong> <h2>Artikel 2</h2> </strong>
+
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae illo obcaecati earum nulla
+                aspernatur praesentium laborum deleniti deserunt possimus tempore? Porro qui, repellendus maiores
+                unde atque aliquid blanditiis totam amet.</p>
+        </article>
+        <article id="article3"> <strong> <h2>Artikel 3</h2> </strong>
+
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Harum illum doloremque excepturi magni
+                repellendus nisi recusandae velit, cumque atque tempora ea sint incidunt ratione laudantium illo
+                iste architecto laboriosam culpa.</p>
+        </article>
+    </main>
+
+    <footer>
+        <p> <strong>kontakta oss på</strong> <a href="Elev">Elev@elev.se</a> </p>
+    </footer>
+    </body>
+
+</html>
